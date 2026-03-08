@@ -1,0 +1,14 @@
+{
+  "ProgramStatus": "on",
+  "Telegram_BotToken": "ypgWxITR80S1R224+Jp1HA1pCZBiSBCYJ+is4H2mv8a9V1Oims6HuLK2OQrLz4ATNwPnZl2ALaIAjTsC8NTIx3LdR2Yj8CXY7Ds1wzH9IL8=",
+  "Telegram_ChatID": "L/dwkXFPxugQ7VIn9K7trJTK3I54RDJKgwZYcTHaVKg8MF5FL83khViRyq4Vm+Ob",
+  "Telegram_ThreadID": "21",
+  "Discord_Webhook_URL": "",
+  "Email_SmtpServer": "smtp.gmail.com",
+  "Email_SmtpPort": "587",
+  "Email_Sender": "d5+NxYed3F6t5ns6Ge/NzeQh5l22Hpf7MJG09vjDj0zS33bQJ0xQfzb0XaVW2MFhSwyV/aIMnHGdicGsnX9AQA==",
+  "Email_Password": "K4UvRcj2Flnv8POWYafQtMv7DbRjvEfHSZRvzt5rc+bswtN6KTQwu9vAfvXktqF4P49IK/CMui+eJm7LCFIVZA==",
+  "Email_Receiver": "",
+  "ReceiveMessages": ["Telegram","Email"],
+  "_noteReceiveMessages": ["Telegram","Discord","Email"]
+}
