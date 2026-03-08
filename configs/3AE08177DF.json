@@ -1,0 +1,21 @@
+{
+  "ProgramStatus": "on",
+  "EnableScreenshot": true,
+  "ExcludedApps": ["app1.exe","app2.exe"],
+  "MaxCacheMB": 200,
+  "PlanStart": "OajdYPx/z1LN0QqGnA1YOjj84Avwd2dwFWWR7pO/HLYem/d/w370x3N1jYUlljSo",
+  "PlanEnd": "qTsVDnCjz6xfIKlnGB+O+YvQj9hZ4y9jah8CmraAFQyFMS50vYsJz8DTxXZmatNG",
+  "WorkTime": 3,
+  "StopTime": 5,
+  "Telegram_BotToken": "IfUhnjjEoowz+2413gyaTjH96CKtP92MXUBCEcL8ZLzhvC8c/pqsDLPWm7CW3KcrX/rM4ujokfagnbGRYeA1d7gWG/tnkmtt5Kc5xjjFUpU=",
+  "Telegram_ChatID": "3F5WHfLL1TeKETAJcSWA7CPPXxCK9Pbl76tsDitHnAE2L5m056+TP2MmBA7OXa63",
+  "Telegram_ThreadID": "22",
+  "Discord_Webhook_URL": "",
+  "Email_SmtpServer": "smtp.gmail.com",
+  "Email_SmtpPort": "587",
+  "Email_Sender": "JS/u0R/VTa4zzWs/BmNUt5M3Bb7G8dEZrLMLnD6oe0cKTjGaPAZql2uZs+BPPmya1hd3ALriJTwmYPNDaFvr8g==",
+  "Email_Password": "0/ul503VvGVUVryag+7ZB9hhQTnmmCjKIiQl+JGit/VOrAidv4s8qXe2tgzR1YRc1KFlENJkNn+3TGqMc1lgDQ==",
+  "Email_Receiver": "",
+  "ReceiveMessages": ["Telegram","Email"],
+  "_noteReceiveMessages": ["Telegram","Discord","Email"]
+}
