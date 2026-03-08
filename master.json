@@ -1,0 +1,9 @@
+{
+  "master_high": "https://config.quanlytheodoicongviec.workers.dev/master.json",
+  "master_medium": "https://raw.githubusercontent.com/quanlytheodoicongviec/quanlytheodoicongviec/main/master.json",
+  "master_low": "",
+  "api_url": "https://raw.githubusercontent.com/quanlytheodoicongviec/quanlytheodoicongviec/main/configs/",
+  "api_newpc_url": "https://raw.githubusercontent.com/quanlytheodoicongviec/quanlytheodoicongviec/main/newpc/",
+  "update_interval_api_url": 60,
+  "day_update_master": 7
+}
