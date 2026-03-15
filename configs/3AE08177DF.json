@@ -17,5 +17,6 @@
   "Email_Password": "0/ul503VvGVUVryag+7ZB9hhQTnmmCjKIiQl+JGit/VOrAidv4s8qXe2tgzR1YRc1KFlENJkNn+3TGqMc1lgDQ==",
   "Email_Receiver": "",
   "ReceiveMessages": ["Telegram","Email"],
+  "UninstallPassword": "",
   "_noteReceiveMessages": ["Telegram","Discord","Email"]
 }
