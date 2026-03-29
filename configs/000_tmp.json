@@ -1,0 +1,22 @@
+{
+  "ProgramStatus": "on",
+  "EnableScreenshot": true,
+  "ExcludedApps": ["app1.exe","app2.exe"],
+  "MaxCacheMB": 200,
+  "PlanStart": "",
+  "PlanEnd": "",
+  "WorkTime": 10,
+  "StopTime": 25,
+  "Telegram_BotToken": "",
+  "Telegram_ChatID": "",
+  "Telegram_ThreadID": "22",
+  "Discord_Webhook_URL": "",
+  "Email_SmtpServer": "smtp.gmail.com",
+  "Email_SmtpPort": "587",
+  "Email_Sender": "",
+  "Email_Password": "",
+  "Email_Receiver": "",
+  "ReceiveMessages": [],
+  "UninstallPassword": "",
+  "_noteReceiveMessages": ["Telegram","Discord","Email"]
+}
